@@ -42,6 +42,7 @@ This project was developed with the following technologies:
 -  [Babel](https://babeljs.io/)
 -  [Browsersync](https://www.browsersync.io/)
 -  [Gulp](https://gulpjs.com/)
+-  [Sass](https://sass-lang.com/)
 
 ## :information_source: How To Use
 
