@@ -23,7 +23,7 @@
     <img alt="issues" src="https://img.shields.io/github/issues/Fellippemfv/setup_frontend">
   </a>
 
-  <img alt="GitHub/licens" src="link_da_licens">
+  <img alt="GitHub/licens" src="https://img.shields.io/github/license/Fellippemfv/setup_frontend">
 </p>
 
 <p align="center">
@@ -57,6 +57,6 @@ $ npm install
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](link_da_license) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/Fellippemfv/setup_frontend/blob/master/LICENSE) for more information.
 
 ---
