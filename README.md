@@ -16,14 +16,17 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Fellippemfv/setup_frontend">
   
   <a href="https://github.com/Fellippemfv/setup_frontend/commits/master">
-    <img alt="last-commit" src="https://img.shields.io/github/last-commit/Fellippemfv/setup_frontend">
+  	<img alt="last-commit" src="https://img.shields.io/github/last-commit/Fellippemfv/setup_frontend">
   </a>
 
   <a href="https://github.com/Fellippemfv/setup_frontend/issues">
-    <img alt="issues" src="https://img.shields.io/github/issues/Fellippemfv/setup_frontend">
+  	<img alt="issues" src="https://img.shields.io/github/issues/Fellippemfv/setup_frontend">
   </a>
 
-  <img alt="GitHub/licens" src="https://img.shields.io/github/license/Fellippemfv/setup_frontend">
+  <a href="https://github.com/Fellippemfv/setup_frontend/blob/master/LICENSE">
+  	<img alt="GitHub/licens" src="https://img.shields.io/github/license/Fellippemfv/setup_frontend">
+  </a>
+
 </p>
 
 <p align="center">
