@@ -39,16 +39,10 @@ This project was developed with the following technologies:
 -  [Babel](https://babeljs.io/)
 -  [Browsersync](https://www.browsersync.io/)
 -  [Gulp](https://gulpjs.com/)
--  [Gulp autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer)
--  [Gulp babel](https://snyk.io/advisor/npm-package/gulp-babel)
--  [Gulp concat](https://www.npmjs.com/package/gulp-concat/)
--  [Gulp sass"](https://www.npmjs.com/package/gulp-sass)
--  [Gulp uglify](https://preview.npmjs.com/package/gulp-uglify/v/3.0.2)
--  [VS Code](https://code.visualstudio.com/)
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v14.15.4][https://nodejs.org/en/] or higher + [Npm v6.14.10][https://www.npmjs.com/] or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v14.15.4](https://nodejs.org/en/) or higher + [Npm v6.14.10](https://www.npmjs.com/) or higher and [VS Code](https://code.visualstudio.com/) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
