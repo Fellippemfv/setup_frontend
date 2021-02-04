@@ -1,11 +1,9 @@
 <h1 align="center">
   <img alt="logo" title="logo" src="./assets/logo.png" />
 </h1>
-
 <p align="center">
     Frontend automatizado e otimizado com gulp
 </p>
-
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
 </h4>
@@ -38,8 +36,6 @@
 </p>
 
 <p align="center">
-  <img alt="App Demo" src="./assets/css_auto.gif">
-  <img alt="App Demo" src="./assets/js_auto.gif">
   <img alt="App Demo" src="./assets/browser_auto.gif">
 </p>
 
@@ -51,6 +47,8 @@ This project was developed with the following technologies:
 -  [Browsersync](https://www.browsersync.io/)
 -  [Gulp](https://gulpjs.com/)
 -  [Sass](https://sass-lang.com/)
+-  [jimp](https://www.npmjs.com/package/jimp)
+
 
 ## :information_source: How To Use
 
@@ -66,6 +64,13 @@ $ cd project
 # Install dependencies
 $ npm install
 
+And
+
+# standardize images with jimp
+$ node jimp.js
+
+# standardize browser, javascript and css with gulp
+$ gulp default
 ```
 
 ## :memo: License

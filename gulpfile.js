@@ -11,14 +11,14 @@ function compilaSass() {
 
     //.src("css/scss/**/*.scss") //com varias pastas
     return gulp
-    .src("css/scss/*.scss")//de onde tiramos
+    .src("Develop/scss/*.scss")//de onde tiramos
     .pipe(sass({
         outputStyle: "compressed" //transforma em sass e comprime todo o css gerado
     }))
     .pipe(autoprefixer({ // permite usar webkits automaticamente
         cascade: false
     }))
-    .pipe(gulp.dest("css/"))//para onde vai
+    .pipe(gulp.dest("Product/css/"))//para onde vai
     .pipe(browserSync.stream());
 }
 
@@ -28,13 +28,13 @@ gulp.task("sass", compilaSass);// compila ao digitarmos "gup sass"
 //função para unir JS
 function gulpJS() {
     return gulp
-    .src("js/main/*.js")
+    .src("Develop/js/*.js")
     .pipe(concat("main.js")) 
     .pipe(babel({
         presets: ["@babel/env"] 
     }))
     .pipe(uglify())
-    .pipe(gulp.dest("js/"))
+    .pipe(gulp.dest("Product/js/"))
     .pipe(browserSync.stream());
 }
 
