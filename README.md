@@ -1,9 +1,11 @@
 <h1 align="center">
-    Frontend
+  <img alt="logo" title="logo" src="./assets/logo.png" />
 </h1>
+
 <p align="center">
-    Frontend automatizado com gulp
+    Frontend automatizado e otimizado com gulp
 </p>
+
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
 </h4>
@@ -33,6 +35,12 @@
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
+</p>
+
+<p align="center">
+  <img alt="App Demo" src="./assets/css_auto.gif">
+  <img alt="App Demo" src="./assets/js_auto.gif">
+  <img alt="App Demo" src="./assets/browser_auto.gif">
 </p>
 
 ## :rocket: Technologies
